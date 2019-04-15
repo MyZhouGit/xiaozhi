@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>xiaozhi</groupId>
-    <artifactId>xiaozhi-eu</artifactId>
+    <artifactId>xiaozhi-eureka-server</artifactId>
     <version>1.0</version>
     <name>xiaozhi-eu</name>
     <description>Demo project for Spring Boot</description>
