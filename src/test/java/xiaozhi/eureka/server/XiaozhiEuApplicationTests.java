@@ -1,4 +1,4 @@
-package xiaozhi.eu;
+package xiaozhi.eureka.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
